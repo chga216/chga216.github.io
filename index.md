@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <h2>Team Stormin Mormons</h2>
 <h2>Mock-Up Presentation for <i>Project Bike Route Planner App</i></h2>
 <h3>Team Members: Chris Garcia, Jared Lillywhite, and Steven Evans</h3>
