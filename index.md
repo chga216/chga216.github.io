@@ -69,7 +69,7 @@
     New Path Stats:
     <hr>
     <br>
-    Total Distance: ______________________
+    Total Distance: ________________________
     <br>
     <br>
     Total Elevation Change: _____________
