@@ -6,8 +6,9 @@
 <br>
 <button type="button">Select Points</button>
 <br>
-<div>
-  <p style="float: right;"><img src="http://www.nationsonline.org/maps/USA/Utah_map.jpg" height="300px" width="300px"></p>  
+
+  <p><img src="http://www.nationsonline.org/maps/USA/Utah_map.jpg" height="300px" width="300px" align="right"></p>  
+  <div>
   <h4>Desired Features of Route</h4>
     <p>
     <form>
