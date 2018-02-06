@@ -14,22 +14,22 @@
     <form>
   <div>
     <input type="checkbox" id="scenic" name="desiredfeatures" value="scenic">
-    <label for="scenic">Scenic Lookouts?</label>
+    <label for="scenic">Scenic Lookouts</label>
   </div>
   <br>
   <div>
     <input type="checkbox" id="sC" name="desiredfeatures" value="sC">
-    <label for="sC">Shopping Centers?</label>
+    <label for="sC">Shopping Centers</label>
   </div>
   <br>
   <div>
     <input type="checkbox" id="schools" name="desiredfeatures" value="schools">
-    <label for="schools">Schools?</label>
+    <label for="schools">Schools</label>
   </div>
   <br>
   <div>
     <input type="checkbox" id="parks" name="desiredfeatures" value="parks">
-    <label for="parks">Parks?</label>
+    <label for="parks">Parks</label>
   </div>
   <br>
   <br>
@@ -49,14 +49,14 @@
 		border:1px solid #000;
 		background:white;
 		min-height:230px;
-		margin-right:260px;
+		margin-right:200px;
 	}
 	#box2 	{
 		float:right;
 		background:white;
 		border:1px solid #000;
 		min-height:230px;
-		width:250px;
+		width:210px;
 	}
 	-->
 	</style>
