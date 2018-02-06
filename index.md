@@ -62,7 +62,7 @@
 	</style>
 <div id="container">
 	<div id="box2">
-    <img src= "https://d26d74ht2k6aj1.cloudfront.net/help/images/profile.png" height="230px" width="250px">
+    <img src= "https://d26d74ht2k6aj1.cloudfront.net/help/images/profile.png" height="230px" width="300px">
 	</div>
 	<div id="box1">
 
