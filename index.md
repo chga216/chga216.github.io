@@ -7,7 +7,7 @@
 <button type="button">Select Points</button>
 <br>
 
-  <p><img src="http://www.nationsonline.org/maps/USA/Utah_map.jpg" height="300px" width="300px" align="right"></p>  
+  <p><img src="http://www.nationsonline.org/maps/USA/Utah_map.jpg" height="350px" width="350px" align="right"></p>  
   <div>
   <h4>Desired Features of Route</h4>
     <p>
@@ -49,13 +49,13 @@
 		border:1px solid #000;
 		background:white;
 		min-height:230px;
-		margin-right:200px;
+		margin-right:250px;
 	}
 	#box2 	{
 		float:right;
 		background:white;
 		border:1px solid #000;
-		min-height:230px;
+		min-height:260px;
 		width:210px;
 	}
 	-->
