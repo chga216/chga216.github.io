@@ -49,7 +49,7 @@
 		border:1px solid #000;
 		background:white;
 		min-height:230px;
-		margin-right:200px;
+		margin-right:185px;
 	}
 	#box2 	{
 		float:right;
@@ -72,9 +72,9 @@
     Total Distance: ________________________
     <br>
     <br>
-    Total Elevation Change: _____________
+    Total Elevation Change: _______________
     <br>
     <br>
-    Estimated Time of Travel: ___________
+    Estimated Time of Travel: _____________
 	</div>
 </div>
