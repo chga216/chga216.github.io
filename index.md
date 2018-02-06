@@ -39,7 +39,7 @@
     </p>
 </div>
 <br>
-<br>
+<hr>
 <br>
 <br>
 	<style type="text/css">
