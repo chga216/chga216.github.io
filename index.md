@@ -49,7 +49,7 @@
 		border:1px solid #000;
 		background:white;
 		min-height:230px;
-		margin-right:185px;
+		margin-right:190px;
 	}
 	#box2 	{
 		float:right;
