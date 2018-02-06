@@ -6,7 +6,7 @@
 <button type="button">Select Points</button>
 <br>
 
-  <p><img src="http://www.nationsonline.org/maps/USA/Utah_map.jpg" height="350px" width="350px" align="right"></p>  
+  <p><img src="http://www.nationsonline.org/maps/USA/Utah_map.jpg" height="300px" width="300px" align="right"></p>  
   <div>
   <h4>Desired Features of Route</h4>
     <p>
@@ -42,27 +42,26 @@
 <br>
 <br>
 <br>
-<hr>
 	<style type="text/css">
 	<!--
 	#box1	{ 
 		border:1px solid #000;
 		background:white;
 		min-height:230px;
-		margin-right:190px;
+		margin-right:260px;
 	}
 	#box2 	{
 		float:right;
 		background:white;
 		border:1px solid #000;
 		min-height:230px;
-		width:300px;
+		width:250px;
 	}
 	-->
 	</style>
 <div id="container">
 	<div id="box2">
-    <img src= "https://d26d74ht2k6aj1.cloudfront.net/help/images/profile.png" height="230px" width="300px">
+    <img src= "https://d26d74ht2k6aj1.cloudfront.net/help/images/profile.png" height="230px" width="250px">
 	</div>
 	<div id="box1">
 
@@ -72,9 +71,9 @@
     Total Distance: ________________________
     <br>
     <br>
-    Total Elevation Change: _______________
+    Total Elevation Change: _____________
     <br>
     <br>
-    Estimated Time of Travel: _____________
+    Estimated Time of Travel: ___________
 	</div>
 </div>
