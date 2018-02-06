@@ -39,8 +39,8 @@
     </p>
 </div>
 <br>
-<hr>
 <br>
+<hr>
 <br>
 	<style type="text/css">
 	<!--
