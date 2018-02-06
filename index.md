@@ -49,14 +49,14 @@
 		border:1px solid #000;
 		background:white;
 		min-height:230px;
-		margin-right:250px;
+		margin-right:200px;
 	}
 	#box2 	{
 		float:right;
 		background:white;
 		border:1px solid #000;
-		min-height:260px;
-		width:210px;
+		min-height:230px;
+		width:300px;
 	}
 	-->
 	</style>
